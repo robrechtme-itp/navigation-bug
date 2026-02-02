@@ -5,6 +5,10 @@
 3. Now opening and closing the modal works fine.
 
 
-| With expo-dev-client | Without expo-dev-client |
-| -- | -- |
-|<video src="./recordings/with-dev-client.mp4" controls width="300"></video>|<video src="./recordings/without-dev-client.mp4" controls width="300"></video>|
+### With expo-dev-client
+
+<video src="./recordings/with-dev-client.mp4" controls width="300"></video>
+
+### Without expo-dev-client
+
+<video src="./recordings/without-dev-client.mp4" controls width="300"></video>
